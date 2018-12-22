@@ -1,4 +1,7 @@
 /.idea
 /venv
 .directory
-__pycache__
+__pycache__/
+*.py[cod]
+/.src/models/__pycache__
+/.src/models/units/__pycache__
